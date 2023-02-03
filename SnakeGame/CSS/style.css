@@ -1,0 +1,40 @@
+#start_btn{
+    margin: auto;
+}
+#start_btn{
+    margin-bottom: 30px;
+}
+ button{
+      
+        cursor: pointer;
+/* // font-size: 20px; */
+     color: white ;
+     background-color: rgb(187, 119, 29);
+     padding: 20px;
+     border: none;
+     border-radius: 8px;
+
+
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("../snakeGame.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+#board{
+}
+#popup{
+    background: white;
+    padding: 30px;
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    display: none;
+}
+
